@@ -1,4 +1,5 @@
 [![passport banner](http://cdn.auth0.com/img/passport-banner-github.png)](http://passportjs.org)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbmoline2%2Fpassport.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbmoline2%2Fpassport?ref=badge_shield)
 
 # Passport
 
@@ -180,3 +181,6 @@ This project is supported by ![](http://passportjs.org/images/supported_logo.svg
 [The MIT License](http://opensource.org/licenses/MIT)
 
 Copyright (c) 2011-2015 Jared Hanson <[http://jaredhanson.net/](http://jaredhanson.net/)>
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbmoline2%2Fpassport.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbmoline2%2Fpassport?ref=badge_large)
